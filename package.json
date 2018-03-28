@@ -1,0 +1,20 @@
+{
+  "name": "jeasyui",
+  "version": "1.5.4.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhbf0214/jeasyui.git"
+  },
+  "keywords": ["jquery", "easyui"],
+  "author": "zhbf0214",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhbf0214/jeasyui/issues"
+  },
+  "homepage": "https://github.com/zhbf0214/jeasyui#readme"
+}
